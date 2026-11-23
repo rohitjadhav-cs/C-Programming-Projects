@@ -1,0 +1,8 @@
+streamlit>=1.37
+pandas
+numpy
+requests
+plotly
+folium
+streamlit-folium
+scikit-learn
